@@ -1,0 +1,27 @@
+{
+  "name": "vista",
+  "version": "1.0.0",
+  "description": "VISTA: Visual Inference for Spatial-Temporal Attention",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vista-neurocog/vista.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vista-neurocog/vista/issues"
+  },
+  "homepage": "https://github.com/vista-neurocog/vista#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^19.8.1",
+    "@commitlint/config-conventional": "^19.8.1",
+    "husky": "^8.0.0"
+  }
+}
